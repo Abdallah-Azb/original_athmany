@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/res/merged/release/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/res/merged/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/res/merged/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/res/merged/release/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/res/merged/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/res/merged/release/interpolator/fast_out_slow_in.xml",
+        "source": "/Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/res/interpolator/fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/res/merged/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    }
+]

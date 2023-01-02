@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="io.sentry.flutter" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="31" />
+
+    <application>
+        <provider
+            android:name="io.sentry.android.core.SentryInitProvider"
+            android:authorities="dollar_openBracket_applicationId_closeBracket.SentryInitProvider"
+            android:exported="false"
+            tools:node="remove" />
+    </application>
+
+</manifest>

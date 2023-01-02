@@ -1,0 +1,1 @@
+enum TYPEMOBILE { MOBILE, TABLET }

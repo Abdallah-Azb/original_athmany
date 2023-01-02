@@ -1,0 +1,20 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.wojoodtech.flutter_sunmi_printer_plus" >
+4
+5    <uses-sdk android:minSdkVersion="19" />
+5-->/Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.BLUETOOTH" />
+7-->/Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml:3:3-65
+7-->/Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml:3:20-63
+8
+9    <!-- To support printerlibrary on Android R -->
+10    <queries>
+10-->/Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml:6:5-8:15
+11        <package android:name="woyou.aidlservice.jiuiv5" />
+11-->/Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml:7:9-59
+11-->/Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml:7:18-57
+12    </queries>
+13
+14</manifest>

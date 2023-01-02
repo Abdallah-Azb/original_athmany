@@ -1,0 +1,400 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:1:1-49:12
+MERGED from [:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:2:1-13:12
+MERGED from [:geolocator_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:2:1-17:12
+MERGED from [:catcher] /Users/abdallahix/Desktop/work/ix/athmany-app/build/catcher/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] /Users/abdallahix/Desktop/work/ix/athmany-app/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:path_provider_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/path_provider_android/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:connectivity_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/connectivity_plus/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:sentry_flutter] /Users/abdallahix/Desktop/work/ix/athmany-app/build/sentry_flutter/intermediates/library_manifest/release/AndroidManifest.xml:2:1-18:12
+MERGED from [:shared_preferences_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/shared_preferences_android/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_sunmi_printer_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:flutter_keyboard_visibility] /Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_keyboard_visibility/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:package_info_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/package_info_plus/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:charset_converter] /Users/abdallahix/Desktop/work/ix/athmany-app/build/charset_converter/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:fluttertoast] /Users/abdallahix/Desktop/work/ix/athmany-app/build/fluttertoast/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:device_info_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/device_info_plus/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:launch_review] /Users/abdallahix/Desktop/work/ix/athmany-app/build/launch_review/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/abdallahix/.gradle/caches/transforms-3/3d137496342736a47dd02bd7228e2cb8/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/abdallahix/.gradle/caches/transforms-3/a9ec050e67f96a878a41295d648658fb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/abdallahix/.gradle/caches/transforms-3/38fb45facb4f1a6a184916d7bf445af9/transformed/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/3fe46a672dc61cd0509fb9309fee39a1/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/abdallahix/.gradle/caches/transforms-3/d0b8f25c9448780400d6c6067437b2ca/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/a9e7a012d9b0acaff88019142febaac8/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/8e0031539caacbc80fb83e31371ca7bf/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/2d7f2eabfc7a68c6561a4842a41cd0ac/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/04e9e884fbeb9e38363a6e7a24e2a28c/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/abdallahix/.gradle/caches/transforms-3/b7ec27ab597a5cdc53f890a03b8e0c3f/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [io.sentry:sentry-android:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/54636585696335c2b944e89d1d91451e/transformed/jetified-sentry-android-6.6.0/AndroidManifest.xml:2:1-11:12
+MERGED from [io.sentry:sentry-android-ndk:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/c5b3dd574dcc7fd33a19b15f190e099f/transformed/jetified-sentry-android-ndk-6.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [io.sentry:sentry-android-core:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/65af2e11dbc56d4763d30be1c8907edd/transformed/jetified-sentry-android-core-6.6.0/AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/abdallahix/.gradle/caches/transforms-3/b4ce46a34343f59a04c78b108f91fdc8/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/40633440c875dcbd12d418652f6010d0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/2c1283fae9834675eeb8205b0a178940/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/857fc7ac2722317922fcbbdb2298034e/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/2d188c8b13b24e43442886a528b762ab/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/cd3bbeee155cf75f777336c91cfbe8f3/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/abdallahix/.gradle/caches/transforms-3/f45419fbdf725c3414ad45644e013dc9/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/abdallahix/.gradle/caches/transforms-3/a96907e6c1332c9a703a3a1061049cc3/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] /Users/abdallahix/.gradle/caches/transforms-3/648cda13f388d2bab13d5425033ea063/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdallahix/.gradle/caches/transforms-3/640aa0ddce43e7fc7b8de1721939f445/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/abdallahix/.gradle/caches/transforms-3/5bb1a018a1b3f5b6529623bfffce17e0/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/29d6ed176f2f8f5b482ae0e69fba4b0d/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/abdallahix/.gradle/caches/transforms-3/600d94af939ff564c8da4e0dfa93d062/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/abdallahix/.gradle/caches/transforms-3/22bae350cbc695da8239e2ea1a1519c9/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/e28ad8bb9823942d567ffc9226ae37f9/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/bbe5449ad2597f82bb1ca7b29480f991/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abdallahix/.gradle/caches/transforms-3/b9a7240e92ed011caa85633dd97592df/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/abdallahix/.gradle/caches/transforms-3/aa962956045913e7ba19b83e9b4ddd48/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/abdallahix/.gradle/caches/transforms-3/0b807bd3ea7fefd32174a4f2af2f3e4c/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/ca0a9cc76f55eecb2c69510f2ec7b937/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.sunmi:printerlibrary:1.0.18] /Users/abdallahix/.gradle/caches/transforms-3/0dd1078ae9cbf27ca47230bfecd21e34/transformed/jetified-printerlibrary-1.0.18/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/abdallahix/.gradle/caches/transforms-3/03cc1d564f3f522355923a11ea396996/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:1:1-49:12
+	package
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:2:5-41
+		INJECTED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:1:1-49:12
+		INJECTED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:1:1-49:12
+		INJECTED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [io.sentry:sentry-android-core:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/65af2e11dbc56d4763d30be1c8907edd/transformed/jetified-sentry-android-core-6.6.0/AndroidManifest.xml:9:5-67
+MERGED from [io.sentry:sentry-android-core:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/65af2e11dbc56d4763d30be1c8907edd/transformed/jetified-sentry-android-core-6.6.0/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:6:22-77
+application
+ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:8:4-48:19
+MERGED from [:geolocator_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:9:5-15:19
+MERGED from [:geolocator_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:9:5-15:19
+MERGED from [:url_launcher_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:sentry_flutter] /Users/abdallahix/Desktop/work/ix/athmany-app/build/sentry_flutter/intermediates/library_manifest/release/AndroidManifest.xml:10:5-16:19
+MERGED from [:sentry_flutter] /Users/abdallahix/Desktop/work/ix/athmany-app/build/sentry_flutter/intermediates/library_manifest/release/AndroidManifest.xml:10:5-16:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/abdallahix/.gradle/caches/transforms-3/a9ec050e67f96a878a41295d648658fb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/abdallahix/.gradle/caches/transforms-3/a9ec050e67f96a878a41295d648658fb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/3fe46a672dc61cd0509fb9309fee39a1/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/3fe46a672dc61cd0509fb9309fee39a1/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/a9e7a012d9b0acaff88019142febaac8/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/a9e7a012d9b0acaff88019142febaac8/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/8e0031539caacbc80fb83e31371ca7bf/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/8e0031539caacbc80fb83e31371ca7bf/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/2d7f2eabfc7a68c6561a4842a41cd0ac/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/2d7f2eabfc7a68c6561a4842a41cd0ac/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/04e9e884fbeb9e38363a6e7a24e2a28c/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/04e9e884fbeb9e38363a6e7a24e2a28c/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [io.sentry:sentry-android-core:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/65af2e11dbc56d4763d30be1c8907edd/transformed/jetified-sentry-android-core-6.6.0/AndroidManifest.xml:11:5-23:19
+MERGED from [io.sentry:sentry-android-core:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/65af2e11dbc56d4763d30be1c8907edd/transformed/jetified-sentry-android-core-6.6.0/AndroidManifest.xml:11:5-23:19
+MERGED from [androidx.core:core:1.6.0] /Users/abdallahix/.gradle/caches/transforms-3/648cda13f388d2bab13d5425033ea063/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/abdallahix/.gradle/caches/transforms-3/648cda13f388d2bab13d5425033ea063/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdallahix/.gradle/caches/transforms-3/640aa0ddce43e7fc7b8de1721939f445/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdallahix/.gradle/caches/transforms-3/640aa0ddce43e7fc7b8de1721939f445/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abdallahix/.gradle/caches/transforms-3/b9a7240e92ed011caa85633dd97592df/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abdallahix/.gradle/caches/transforms-3/b9a7240e92ed011caa85633dd97592df/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/abdallahix/.gradle/caches/transforms-3/648cda13f388d2bab13d5425033ea063/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:10:9-43
+	android:usesCleartextTraffic
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:11:9-44
+activity#com.athmanytec.alqimma.app.MainActivity
+ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:13:9-42:20
+	android:launchMode
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:20:13-55
+	android:exported
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:19:13-36
+	android:configChanges
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:17:13-163
+	android:theme
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:14:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:25:13-28:17
+	android:resource
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:27:15-52
+	android:name
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:26:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:34:13-37:17
+	android:resource
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:36:15-61
+	android:name
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:35:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:39:17-68
+	android:name
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:40:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:45:9-47:33
+	android:value
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:47:13-30
+	android:name
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:46:13-44
+uses-sdk
+INJECTED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml
+MERGED from [:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:catcher] /Users/abdallahix/Desktop/work/ix/athmany-app/build/catcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:catcher] /Users/abdallahix/Desktop/work/ix/athmany-app/build/catcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/abdallahix/Desktop/work/ix/athmany-app/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/abdallahix/Desktop/work/ix/athmany-app/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/path_provider_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/path_provider_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/connectivity_plus/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/connectivity_plus/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sentry_flutter] /Users/abdallahix/Desktop/work/ix/athmany-app/build/sentry_flutter/intermediates/library_manifest/release/AndroidManifest.xml:6:5-8:41
+MERGED from [:sentry_flutter] /Users/abdallahix/Desktop/work/ix/athmany-app/build/sentry_flutter/intermediates/library_manifest/release/AndroidManifest.xml:6:5-8:41
+MERGED from [:shared_preferences_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/shared_preferences_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/shared_preferences_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_sunmi_printer_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_sunmi_printer_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_keyboard_visibility] /Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_keyboard_visibility/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_keyboard_visibility] /Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_keyboard_visibility/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:package_info_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/package_info_plus/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:package_info_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/package_info_plus/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:charset_converter] /Users/abdallahix/Desktop/work/ix/athmany-app/build/charset_converter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:charset_converter] /Users/abdallahix/Desktop/work/ix/athmany-app/build/charset_converter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/abdallahix/Desktop/work/ix/athmany-app/build/fluttertoast/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/abdallahix/Desktop/work/ix/athmany-app/build/fluttertoast/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:device_info_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/device_info_plus/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:device_info_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/device_info_plus/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:launch_review] /Users/abdallahix/Desktop/work/ix/athmany-app/build/launch_review/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:launch_review] /Users/abdallahix/Desktop/work/ix/athmany-app/build/launch_review/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/abdallahix/.gradle/caches/transforms-3/3d137496342736a47dd02bd7228e2cb8/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/abdallahix/.gradle/caches/transforms-3/3d137496342736a47dd02bd7228e2cb8/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/abdallahix/.gradle/caches/transforms-3/a9ec050e67f96a878a41295d648658fb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/abdallahix/.gradle/caches/transforms-3/a9ec050e67f96a878a41295d648658fb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/abdallahix/.gradle/caches/transforms-3/38fb45facb4f1a6a184916d7bf445af9/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/abdallahix/.gradle/caches/transforms-3/38fb45facb4f1a6a184916d7bf445af9/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/3fe46a672dc61cd0509fb9309fee39a1/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/3fe46a672dc61cd0509fb9309fee39a1/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/abdallahix/.gradle/caches/transforms-3/d0b8f25c9448780400d6c6067437b2ca/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/abdallahix/.gradle/caches/transforms-3/d0b8f25c9448780400d6c6067437b2ca/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/a9e7a012d9b0acaff88019142febaac8/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/a9e7a012d9b0acaff88019142febaac8/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/8e0031539caacbc80fb83e31371ca7bf/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/8e0031539caacbc80fb83e31371ca7bf/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/2d7f2eabfc7a68c6561a4842a41cd0ac/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/2d7f2eabfc7a68c6561a4842a41cd0ac/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/04e9e884fbeb9e38363a6e7a24e2a28c/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/04e9e884fbeb9e38363a6e7a24e2a28c/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/abdallahix/.gradle/caches/transforms-3/b7ec27ab597a5cdc53f890a03b8e0c3f/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/abdallahix/.gradle/caches/transforms-3/b7ec27ab597a5cdc53f890a03b8e0c3f/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [io.sentry:sentry-android:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/54636585696335c2b944e89d1d91451e/transformed/jetified-sentry-android-6.6.0/AndroidManifest.xml:6:5-9:57
+MERGED from [io.sentry:sentry-android:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/54636585696335c2b944e89d1d91451e/transformed/jetified-sentry-android-6.6.0/AndroidManifest.xml:6:5-9:57
+MERGED from [io.sentry:sentry-android-ndk:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/c5b3dd574dcc7fd33a19b15f190e099f/transformed/jetified-sentry-android-ndk-6.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.sentry:sentry-android-ndk:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/c5b3dd574dcc7fd33a19b15f190e099f/transformed/jetified-sentry-android-ndk-6.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.sentry:sentry-android-core:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/65af2e11dbc56d4763d30be1c8907edd/transformed/jetified-sentry-android-core-6.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.sentry:sentry-android-core:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/65af2e11dbc56d4763d30be1c8907edd/transformed/jetified-sentry-android-core-6.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/abdallahix/.gradle/caches/transforms-3/b4ce46a34343f59a04c78b108f91fdc8/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/abdallahix/.gradle/caches/transforms-3/b4ce46a34343f59a04c78b108f91fdc8/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/40633440c875dcbd12d418652f6010d0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/40633440c875dcbd12d418652f6010d0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/2c1283fae9834675eeb8205b0a178940/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/2c1283fae9834675eeb8205b0a178940/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/857fc7ac2722317922fcbbdb2298034e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/857fc7ac2722317922fcbbdb2298034e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/2d188c8b13b24e43442886a528b762ab/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/2d188c8b13b24e43442886a528b762ab/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/cd3bbeee155cf75f777336c91cfbe8f3/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/cd3bbeee155cf75f777336c91cfbe8f3/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/abdallahix/.gradle/caches/transforms-3/f45419fbdf725c3414ad45644e013dc9/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/abdallahix/.gradle/caches/transforms-3/f45419fbdf725c3414ad45644e013dc9/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/abdallahix/.gradle/caches/transforms-3/a96907e6c1332c9a703a3a1061049cc3/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/abdallahix/.gradle/caches/transforms-3/a96907e6c1332c9a703a3a1061049cc3/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/abdallahix/.gradle/caches/transforms-3/648cda13f388d2bab13d5425033ea063/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/abdallahix/.gradle/caches/transforms-3/648cda13f388d2bab13d5425033ea063/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdallahix/.gradle/caches/transforms-3/640aa0ddce43e7fc7b8de1721939f445/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdallahix/.gradle/caches/transforms-3/640aa0ddce43e7fc7b8de1721939f445/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/abdallahix/.gradle/caches/transforms-3/5bb1a018a1b3f5b6529623bfffce17e0/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/abdallahix/.gradle/caches/transforms-3/5bb1a018a1b3f5b6529623bfffce17e0/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/29d6ed176f2f8f5b482ae0e69fba4b0d/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/29d6ed176f2f8f5b482ae0e69fba4b0d/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/abdallahix/.gradle/caches/transforms-3/600d94af939ff564c8da4e0dfa93d062/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/abdallahix/.gradle/caches/transforms-3/600d94af939ff564c8da4e0dfa93d062/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/abdallahix/.gradle/caches/transforms-3/22bae350cbc695da8239e2ea1a1519c9/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/abdallahix/.gradle/caches/transforms-3/22bae350cbc695da8239e2ea1a1519c9/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/e28ad8bb9823942d567ffc9226ae37f9/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/e28ad8bb9823942d567ffc9226ae37f9/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/bbe5449ad2597f82bb1ca7b29480f991/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/bbe5449ad2597f82bb1ca7b29480f991/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abdallahix/.gradle/caches/transforms-3/b9a7240e92ed011caa85633dd97592df/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abdallahix/.gradle/caches/transforms-3/b9a7240e92ed011caa85633dd97592df/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/abdallahix/.gradle/caches/transforms-3/aa962956045913e7ba19b83e9b4ddd48/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/abdallahix/.gradle/caches/transforms-3/aa962956045913e7ba19b83e9b4ddd48/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/abdallahix/.gradle/caches/transforms-3/0b807bd3ea7fefd32174a4f2af2f3e4c/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/abdallahix/.gradle/caches/transforms-3/0b807bd3ea7fefd32174a4f2af2f3e4c/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/ca0a9cc76f55eecb2c69510f2ec7b937/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/abdallahix/.gradle/caches/transforms-3/ca0a9cc76f55eecb2c69510f2ec7b937/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.sunmi:printerlibrary:1.0.18] /Users/abdallahix/.gradle/caches/transforms-3/0dd1078ae9cbf27ca47230bfecd21e34/transformed/jetified-printerlibrary-1.0.18/AndroidManifest.xml:5:5-7:41
+MERGED from [com.sunmi:printerlibrary:1.0.18] /Users/abdallahix/.gradle/caches/transforms-3/0dd1078ae9cbf27ca47230bfecd21e34/transformed/jetified-printerlibrary-1.0.18/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/abdallahix/.gradle/caches/transforms-3/03cc1d564f3f522355923a11ea396996/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/abdallahix/.gradle/caches/transforms-3/03cc1d564f3f522355923a11ea396996/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [io.sentry:sentry-android:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/54636585696335c2b944e89d1d91451e/transformed/jetified-sentry-android-6.6.0/AndroidManifest.xml:9:9-54
+	android:targetSdkVersion
+		INJECTED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:8:5-79
+MERGED from [:connectivity_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/connectivity_plus/intermediates/library_manifest/release/AndroidManifest.xml:7:5-79
+MERGED from [:connectivity_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/connectivity_plus/intermediates/library_manifest/release/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from [:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from [:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:11:22-73
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:geolocator_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:7:5-77
+	android:name
+		ADDED from [:geolocator_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:7:22-74
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from [:geolocator_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:10:9-14:56
+	android:enabled
+		ADDED from [:geolocator_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:12:13-35
+	android:exported
+		ADDED from [:geolocator_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:13:13-37
+	android:foregroundServiceType
+		ADDED from [:geolocator_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:14:13-53
+	android:name
+		ADDED from [:geolocator_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:11:13-77
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+provider#io.sentry.android.core.SentryInitProvider
+ADDED from [:sentry_flutter] /Users/abdallahix/Desktop/work/ix/athmany-app/build/sentry_flutter/intermediates/library_manifest/release/AndroidManifest.xml:11:9-15:35
+REJECTED from [io.sentry:sentry-android-core:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/65af2e11dbc56d4763d30be1c8907edd/transformed/jetified-sentry-android-core-6.6.0/AndroidManifest.xml:14:9-17:40
+	tools:node
+		ADDED from [:sentry_flutter] /Users/abdallahix/Desktop/work/ix/athmany-app/build/sentry_flutter/intermediates/library_manifest/release/AndroidManifest.xml:15:13-32
+	android:authorities
+		ADDED from [:sentry_flutter] /Users/abdallahix/Desktop/work/ix/athmany-app/build/sentry_flutter/intermediates/library_manifest/release/AndroidManifest.xml:13:13-70
+	android:exported
+		ADDED from [:sentry_flutter] /Users/abdallahix/Desktop/work/ix/athmany-app/build/sentry_flutter/intermediates/library_manifest/release/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:sentry_flutter] /Users/abdallahix/Desktop/work/ix/athmany-app/build/sentry_flutter/intermediates/library_manifest/release/AndroidManifest.xml:12:13-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:flutter_sunmi_printer_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/library_manifest/release/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from [:flutter_sunmi_printer_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/library_manifest/release/AndroidManifest.xml:7:22-65
+queries
+ADDED from [:flutter_sunmi_printer_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/library_manifest/release/AndroidManifest.xml:10:5-12:15
+package#woyou.aidlservice.jiuiv5
+ADDED from [:flutter_sunmi_printer_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/library_manifest/release/AndroidManifest.xml:11:9-60
+	android:name
+		ADDED from [:flutter_sunmi_printer_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/library_manifest/release/AndroidManifest.xml:11:18-57
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/abdallahix/.gradle/caches/transforms-3/a9ec050e67f96a878a41295d648658fb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/abdallahix/.gradle/caches/transforms-3/a9ec050e67f96a878a41295d648658fb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/abdallahix/.gradle/caches/transforms-3/a9ec050e67f96a878a41295d648658fb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/abdallahix/.gradle/caches/transforms-3/a9ec050e67f96a878a41295d648658fb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/abdallahix/.gradle/caches/transforms-3/a9ec050e67f96a878a41295d648658fb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/abdallahix/.gradle/caches/transforms-3/a9ec050e67f96a878a41295d648658fb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/a9e7a012d9b0acaff88019142febaac8/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/a9e7a012d9b0acaff88019142febaac8/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/a9e7a012d9b0acaff88019142febaac8/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/a9e7a012d9b0acaff88019142febaac8/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/04e9e884fbeb9e38363a6e7a24e2a28c/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/04e9e884fbeb9e38363a6e7a24e2a28c/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/04e9e884fbeb9e38363a6e7a24e2a28c/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+provider#io.sentry.android.core.SentryPerformanceProvider
+ADDED from [io.sentry:sentry-android-core:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/65af2e11dbc56d4763d30be1c8907edd/transformed/jetified-sentry-android-core-6.6.0/AndroidManifest.xml:18:9-22:39
+	android:authorities
+		ADDED from [io.sentry:sentry-android-core:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/65af2e11dbc56d4763d30be1c8907edd/transformed/jetified-sentry-android-core-6.6.0/AndroidManifest.xml:20:13-77
+	android:exported
+		ADDED from [io.sentry:sentry-android-core:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/65af2e11dbc56d4763d30be1c8907edd/transformed/jetified-sentry-android-core-6.6.0/AndroidManifest.xml:21:13-37
+	android:initOrder
+		ADDED from [io.sentry:sentry-android-core:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/65af2e11dbc56d4763d30be1c8907edd/transformed/jetified-sentry-android-core-6.6.0/AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from [io.sentry:sentry-android-core:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/65af2e11dbc56d4763d30be1c8907edd/transformed/jetified-sentry-android-core-6.6.0/AndroidManifest.xml:19:13-76
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdallahix/.gradle/caches/transforms-3/640aa0ddce43e7fc7b8de1721939f445/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdallahix/.gradle/caches/transforms-3/640aa0ddce43e7fc7b8de1721939f445/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdallahix/.gradle/caches/transforms-3/640aa0ddce43e7fc7b8de1721939f445/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdallahix/.gradle/caches/transforms-3/640aa0ddce43e7fc7b8de1721939f445/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdallahix/.gradle/caches/transforms-3/640aa0ddce43e7fc7b8de1721939f445/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79

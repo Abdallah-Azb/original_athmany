@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/abdallahix/.gradle/caches/transforms-3/648cda13f388d2bab13d5425033ea063/transformed/core-1.6.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/res/drawable-v21/abc_dialog_material_background.xml"
+    }
+]

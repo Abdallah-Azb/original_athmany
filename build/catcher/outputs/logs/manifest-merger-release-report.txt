@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/git/athmany_reporter-dfa1e4f05bdcd1af5e6dee7af5b75989a3a89184/android/src/main/AndroidManifest.xml:1:1-3:12
+INJECTED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/git/athmany_reporter-dfa1e4f05bdcd1af5e6dee7af5b75989a3a89184/android/src/main/AndroidManifest.xml:1:1-3:12
+INJECTED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/git/athmany_reporter-dfa1e4f05bdcd1af5e6dee7af5b75989a3a89184/android/src/main/AndroidManifest.xml:1:1-3:12
+	package
+		ADDED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/git/athmany_reporter-dfa1e4f05bdcd1af5e6dee7af5b75989a3a89184/android/src/main/AndroidManifest.xml:2:3-33
+		INJECTED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/git/athmany_reporter-dfa1e4f05bdcd1af5e6dee7af5b75989a3a89184/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/git/athmany_reporter-dfa1e4f05bdcd1af5e6dee7af5b75989a3a89184/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/git/athmany_reporter-dfa1e4f05bdcd1af5e6dee7af5b75989a3a89184/android/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/git/athmany_reporter-dfa1e4f05bdcd1af5e6dee7af5b75989a3a89184/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/git/athmany_reporter-dfa1e4f05bdcd1af5e6dee7af5b75989a3a89184/android/src/main/AndroidManifest.xml
+INJECTED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/git/athmany_reporter-dfa1e4f05bdcd1af5e6dee7af5b75989a3a89184/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/git/athmany_reporter-dfa1e4f05bdcd1af5e6dee7af5b75989a3a89184/android/src/main/AndroidManifest.xml
+		ADDED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/git/athmany_reporter-dfa1e4f05bdcd1af5e6dee7af5b75989a3a89184/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/git/athmany_reporter-dfa1e4f05bdcd1af5e6dee7af5b75989a3a89184/android/src/main/AndroidManifest.xml

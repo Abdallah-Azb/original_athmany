@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wojoodtech.flutter_sunmi_printer_plus" >
+
+    <uses-sdk android:minSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+
+    <!-- To support printerlibrary on Android R -->
+    <queries>
+        <package android:name="woyou.aidlservice.jiuiv5" />
+    </queries>
+
+</manifest>

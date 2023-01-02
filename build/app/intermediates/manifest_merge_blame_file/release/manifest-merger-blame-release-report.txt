@@ -1,0 +1,197 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.athmanytec.alqimma.app"
+4    android:versionCode="104"
+5    android:versionName="4.8.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:5:5-80
+12-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:5:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:6:5-79
+13-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:6:22-77
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->[:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:7:5-79
+14-->[:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:7:22-76
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:8:5-79
+15-->[:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:8:22-76
+16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+16-->[:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:9:5-76
+16-->[:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:9:22-73
+17    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+17-->[:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:10:5-79
+17-->[:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:10:22-76
+18    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+18-->[:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:11:5-76
+18-->[:wifi] /Users/abdallahix/Desktop/work/ix/athmany-app/build/wifi/intermediates/library_manifest/release/AndroidManifest.xml:11:22-73
+19    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+19-->[:geolocator_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:7:5-77
+19-->[:geolocator_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:7:22-74
+20    <uses-permission android:name="android.permission.BLUETOOTH" /> <!-- To support printerlibrary on Android R -->
+20-->[:flutter_sunmi_printer_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/library_manifest/release/AndroidManifest.xml:7:5-68
+20-->[:flutter_sunmi_printer_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/library_manifest/release/AndroidManifest.xml:7:22-65
+21    <queries>
+21-->[:flutter_sunmi_printer_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/library_manifest/release/AndroidManifest.xml:10:5-12:15
+22        <package android:name="woyou.aidlservice.jiuiv5" />
+22-->[:flutter_sunmi_printer_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/library_manifest/release/AndroidManifest.xml:11:9-60
+22-->[:flutter_sunmi_printer_plus] /Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/library_manifest/release/AndroidManifest.xml:11:18-57
+23    </queries>
+24
+25    <application
+25-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:8:4-48:19
+26        android:name="androidx.multidex.MultiDexApplication"
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.6.0] /Users/abdallahix/.gradle/caches/transforms-3/648cda13f388d2bab13d5425033ea063/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+28        android:icon="@mipmap/ic_launcher"
+28-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:10:9-43
+29        android:label="Athmanytec"
+29-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:9:9-35
+30        android:usesCleartextTraffic="true" >
+30-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:11:9-44
+31        <activity
+31-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:13:9-42:20
+32            android:name="com.athmanytec.alqimma.app.MainActivity"
+32-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:14:13-41
+33            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+33-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:17:13-163
+34            android:exported="true"
+34-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:19:13-36
+35            android:hardwareAccelerated="true"
+35-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:18:13-47
+36            android:launchMode="singleTop"
+36-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:15:13-43
+37            android:theme="@style/LaunchTheme"
+37-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:16:13-47
+38            android:windowSoftInputMode="adjustResize" >
+38-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:20:13-55
+39
+40            <!--
+41                 Specifies an Android theme to apply to this Activity as soon as
+42                 the Android process has started. This theme is visible to the user
+43                 while the Flutter UI initializes. After that, this theme continues
+44                 to determine the Window background behind the Flutter UI.
+45            -->
+46            <meta-data
+46-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:25:13-28:17
+47                android:name="io.flutter.embedding.android.NormalTheme"
+47-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:26:15-70
+48                android:resource="@style/NormalTheme" />
+48-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:27:15-52
+49            <!--
+50                 Displays an Android View that continues showing the launch screen
+51                 Drawable until Flutter paints its first frame, then this splash
+52                 screen fades out. A splash screen is useful to avoid any visual
+53                 gap between the end of Android's launch screen and the painting of
+54                 Flutter's first frame.
+55            -->
+56            <meta-data
+56-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:34:13-37:17
+57                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+57-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:35:15-79
+58                android:resource="@drawable/launch_background" />
+58-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:36:15-61
+59
+60            <intent-filter>
+60-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:38:13-41:29
+61                <action android:name="android.intent.action.MAIN" />
+61-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:39:17-68
+61-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:39:25-66
+62
+63                <category android:name="android.intent.category.LAUNCHER" />
+63-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:40:17-76
+63-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:40:27-74
+64            </intent-filter>
+65        </activity>
+66        <!--
+67             Don't delete the meta-data below.
+68             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+69        -->
+70        <meta-data
+70-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:45:9-47:33
+71            android:name="flutterEmbedding"
+71-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:46:13-44
+72            android:value="2" />
+72-->/Users/abdallahix/Desktop/work/ix/athmany-app/android/app/src/main/AndroidManifest.xml:47:13-30
+73
+74        <service
+74-->[:geolocator_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:10:9-14:56
+75            android:name="com.baseflow.geolocator.GeolocatorLocationService"
+75-->[:geolocator_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:11:13-77
+76            android:enabled="true"
+76-->[:geolocator_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:12:13-35
+77            android:exported="false"
+77-->[:geolocator_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:13:13-37
+78            android:foregroundServiceType="location" />
+78-->[:geolocator_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/geolocator_android/intermediates/library_manifest/release/AndroidManifest.xml:14:13-53
+79
+80        <activity
+80-->[:url_launcher_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
+81            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+81-->[:url_launcher_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+82            android:exported="false"
+82-->[:url_launcher_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
+83            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+83-->[:url_launcher_android] /Users/abdallahix/Desktop/work/ix/athmany-app/build/url_launcher_android/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
+84
+85        <uses-library
+85-->[androidx.window:window:1.0.0-beta04] /Users/abdallahix/.gradle/caches/transforms-3/a9ec050e67f96a878a41295d648658fb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+86            android:name="androidx.window.extensions"
+86-->[androidx.window:window:1.0.0-beta04] /Users/abdallahix/.gradle/caches/transforms-3/a9ec050e67f96a878a41295d648658fb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+87            android:required="false" />
+87-->[androidx.window:window:1.0.0-beta04] /Users/abdallahix/.gradle/caches/transforms-3/a9ec050e67f96a878a41295d648658fb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+88        <uses-library
+88-->[androidx.window:window:1.0.0-beta04] /Users/abdallahix/.gradle/caches/transforms-3/a9ec050e67f96a878a41295d648658fb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+89            android:name="androidx.window.sidecar"
+89-->[androidx.window:window:1.0.0-beta04] /Users/abdallahix/.gradle/caches/transforms-3/a9ec050e67f96a878a41295d648658fb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+90            android:required="false" />
+90-->[androidx.window:window:1.0.0-beta04] /Users/abdallahix/.gradle/caches/transforms-3/a9ec050e67f96a878a41295d648658fb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+91
+92        <activity
+92-->[com.google.android.gms:play-services-base:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/a9e7a012d9b0acaff88019142febaac8/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+93            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+93-->[com.google.android.gms:play-services-base:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/a9e7a012d9b0acaff88019142febaac8/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+94            android:exported="false"
+94-->[com.google.android.gms:play-services-base:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/a9e7a012d9b0acaff88019142febaac8/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+95            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+95-->[com.google.android.gms:play-services-base:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/a9e7a012d9b0acaff88019142febaac8/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+96
+97        <meta-data
+97-->[com.google.android.gms:play-services-basement:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/04e9e884fbeb9e38363a6e7a24e2a28c/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+98            android:name="com.google.android.gms.version"
+98-->[com.google.android.gms:play-services-basement:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/04e9e884fbeb9e38363a6e7a24e2a28c/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+99            android:value="@integer/google_play_services_version" />
+99-->[com.google.android.gms:play-services-basement:17.0.0] /Users/abdallahix/.gradle/caches/transforms-3/04e9e884fbeb9e38363a6e7a24e2a28c/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+100
+101        <provider
+101-->[io.sentry:sentry-android-core:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/65af2e11dbc56d4763d30be1c8907edd/transformed/jetified-sentry-android-core-6.6.0/AndroidManifest.xml:18:9-22:39
+102            android:name="io.sentry.android.core.SentryPerformanceProvider"
+102-->[io.sentry:sentry-android-core:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/65af2e11dbc56d4763d30be1c8907edd/transformed/jetified-sentry-android-core-6.6.0/AndroidManifest.xml:19:13-76
+103            android:authorities="com.athmanytec.alqimma.app.SentryPerformanceProvider"
+103-->[io.sentry:sentry-android-core:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/65af2e11dbc56d4763d30be1c8907edd/transformed/jetified-sentry-android-core-6.6.0/AndroidManifest.xml:20:13-77
+104            android:exported="false"
+104-->[io.sentry:sentry-android-core:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/65af2e11dbc56d4763d30be1c8907edd/transformed/jetified-sentry-android-core-6.6.0/AndroidManifest.xml:21:13-37
+105            android:initOrder="200" />
+105-->[io.sentry:sentry-android-core:6.6.0] /Users/abdallahix/.gradle/caches/transforms-3/65af2e11dbc56d4763d30be1c8907edd/transformed/jetified-sentry-android-core-6.6.0/AndroidManifest.xml:22:13-36
+106        <provider
+106-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdallahix/.gradle/caches/transforms-3/640aa0ddce43e7fc7b8de1721939f445/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+107            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+107-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdallahix/.gradle/caches/transforms-3/640aa0ddce43e7fc7b8de1721939f445/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+108            android:authorities="com.athmanytec.alqimma.app.lifecycle-process"
+108-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdallahix/.gradle/caches/transforms-3/640aa0ddce43e7fc7b8de1721939f445/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+109            android:exported="false"
+109-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdallahix/.gradle/caches/transforms-3/640aa0ddce43e7fc7b8de1721939f445/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+110            android:multiprocess="true" />
+110-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdallahix/.gradle/caches/transforms-3/640aa0ddce43e7fc7b8de1721939f445/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+111    </application>
+112
+113</manifest>

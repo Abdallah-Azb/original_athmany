@@ -1,0 +1,26 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="io.sentry.flutter" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="16"
+7-->/Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/sentry_flutter-6.9.1/android/src/main/AndroidManifest.xml
+8        android:targetSdkVersion="31" />
+8-->/Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/sentry_flutter-6.9.1/android/src/main/AndroidManifest.xml
+9
+10    <application>
+10-->/Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/sentry_flutter-6.9.1/android/src/main/AndroidManifest.xml:4:5-10:19
+11        <provider
+11-->/Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/sentry_flutter-6.9.1/android/src/main/AndroidManifest.xml:5:9-9:35
+12            android:name="io.sentry.android.core.SentryInitProvider"
+12-->/Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/sentry_flutter-6.9.1/android/src/main/AndroidManifest.xml:6:13-69
+13            android:authorities="${applicationId}.SentryInitProvider"
+13-->/Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/sentry_flutter-6.9.1/android/src/main/AndroidManifest.xml:7:13-70
+14            android:exported="false"
+14-->/Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/sentry_flutter-6.9.1/android/src/main/AndroidManifest.xml:8:13-37
+15            tools:node="remove" />
+15-->/Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/sentry_flutter-6.9.1/android/src/main/AndroidManifest.xml:9:13-32
+16    </application>
+17
+18</manifest>

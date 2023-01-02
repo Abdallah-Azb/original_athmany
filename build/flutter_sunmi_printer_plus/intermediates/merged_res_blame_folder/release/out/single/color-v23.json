@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/abdallahix/Desktop/work/ix/athmany-app/build/flutter_sunmi_printer_plus/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/abdallahix/.gradle/caches/transforms-3/65682ca151113b7c81aebdf6ad716d27/transformed/appcompat-1.1.0/res/color-v23/abc_tint_btn_checkable.xml"
+    }
+]

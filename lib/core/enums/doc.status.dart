@@ -1,0 +1,1 @@
+enum DOCSTATUS { SAVED, PAID }

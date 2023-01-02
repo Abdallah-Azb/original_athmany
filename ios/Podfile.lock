@@ -1,0 +1,124 @@
+PODS:
+  - charset_converter (0.0.1):
+    - Flutter
+  - connectivity_plus (0.0.1):
+    - Flutter
+    - ReachabilitySwift
+  - device_info (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_keyboard_visibility (0.0.1):
+    - Flutter
+  - fluttertoast (0.0.2):
+    - Flutter
+    - Toast
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - launch_review (0.0.1):
+    - Flutter
+  - location (0.0.1):
+    - Flutter
+  - package_info_plus (0.4.5):
+    - Flutter
+  - path_provider_ios (0.0.1):
+    - Flutter
+  - ReachabilitySwift (5.0.0)
+  - Sentry (7.11.0):
+    - Sentry/Core (= 7.11.0)
+  - Sentry/Core (7.11.0)
+  - sentry_flutter (0.0.1):
+    - Flutter
+    - FlutterMacOS
+    - Sentry (~> 7.11.0)
+  - shared_preferences_ios (0.0.1):
+    - Flutter
+  - sqflite (0.0.2):
+    - Flutter
+    - FMDB (>= 2.7.5)
+  - Toast (4.0.0)
+  - url_launcher_ios (0.0.1):
+    - Flutter
+  - wifi (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - charset_converter (from `.symlinks/plugins/charset_converter/ios`)
+  - connectivity_plus (from `.symlinks/plugins/connectivity_plus/ios`)
+  - device_info (from `.symlinks/plugins/device_info/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_keyboard_visibility (from `.symlinks/plugins/flutter_keyboard_visibility/ios`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - launch_review (from `.symlinks/plugins/launch_review/ios`)
+  - location (from `.symlinks/plugins/location/ios`)
+  - package_info_plus (from `.symlinks/plugins/package_info_plus/ios`)
+  - path_provider_ios (from `.symlinks/plugins/path_provider_ios/ios`)
+  - sentry_flutter (from `.symlinks/plugins/sentry_flutter/ios`)
+  - shared_preferences_ios (from `.symlinks/plugins/shared_preferences_ios/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+  - wifi (from `.symlinks/plugins/wifi/ios`)
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+    - ReachabilitySwift
+    - Sentry
+    - Toast
+
+EXTERNAL SOURCES:
+  charset_converter:
+    :path: ".symlinks/plugins/charset_converter/ios"
+  connectivity_plus:
+    :path: ".symlinks/plugins/connectivity_plus/ios"
+  device_info:
+    :path: ".symlinks/plugins/device_info/ios"
+  Flutter:
+    :path: Flutter
+  flutter_keyboard_visibility:
+    :path: ".symlinks/plugins/flutter_keyboard_visibility/ios"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  launch_review:
+    :path: ".symlinks/plugins/launch_review/ios"
+  location:
+    :path: ".symlinks/plugins/location/ios"
+  package_info_plus:
+    :path: ".symlinks/plugins/package_info_plus/ios"
+  path_provider_ios:
+    :path: ".symlinks/plugins/path_provider_ios/ios"
+  sentry_flutter:
+    :path: ".symlinks/plugins/sentry_flutter/ios"
+  shared_preferences_ios:
+    :path: ".symlinks/plugins/shared_preferences_ios/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+  wifi:
+    :path: ".symlinks/plugins/wifi/ios"
+
+SPEC CHECKSUMS:
+  charset_converter: 215c7b04932ec2b9ba43be96a9bc34afed3e5322
+  connectivity_plus: 413a8857dd5d9f1c399a39130850d02fe0feaf7e
+  device_info: d7d233b645a32c40dfdc212de5cf646ca482f175
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  flutter_keyboard_visibility: 0339d06371254c3eb25eeb90ba8d17dca8f9c069
+  fluttertoast: 6122fa75143e992b1d3470f61000f591a798cc58
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  launch_review: 75d5a956ba8eaa493e9c9d4bf4c05e505e8d5ed0
+  location: 3a2eed4dd2fab25e7b7baf2a9efefe82b512d740
+  package_info_plus: 6c92f08e1f853dc01228d6f553146438dafcd14e
+  path_provider_ios: 14f3d2fd28c4fdb42f44e0f751d12861c43cee02
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  Sentry: 0c5cd63d714187b4a39c331c1f0eb04ba7868341
+  sentry_flutter: efb3df2c203cd03aad255892a8d628a458656d14
+  shared_preferences_ios: 548a61f8053b9b8a49ac19c1ffbc8b92c50d68ad
+  sqflite: 6d358c025f5b867b29ed92fc697fd34924e11904
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+  url_launcher_ios: 02f1989d4e14e998335b02b67a7590fa34f971af
+  wifi: d7d77c94109e36c4175d845f0a5964eadba71060
+
+PODFILE CHECKSUM: b05fcd0fcdec68eb8bd33e47e9891111c9134d66
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml:1:1-9:12
+	package
+		ADDED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml:2:3-54
+		INJECTED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml:3:3-65
+	android:name
+		ADDED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml:3:20-63
+queries
+ADDED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml:6:5-8:15
+package#woyou.aidlservice.jiuiv5
+ADDED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml:7:9-59
+	android:name
+		ADDED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml:7:18-57
+uses-sdk
+INJECTED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml
+		ADDED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/abdallahix/Desktop/work/flutter-sdk/flutter_3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sunmi_printer_plus-0.0.1/android/src/main/AndroidManifest.xml

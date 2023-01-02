@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.788" height="43.741" viewBox="0 0 35.788 43.741">
+  <g id="Group_12" data-name="Group 12" transform="translate(-121.761 -423.306)">
+    <g id="Group_4" data-name="Group 4" transform="translate(121.761 425.109)">
+      <g id="Group_3" data-name="Group 3">
+        <path id="Path_9" data-name="Path 9" d="M122.676,468.359a1.5,1.5,0,0,1-.912-1.563q.023-19.424,0-38.849a1.392,1.392,0,0,1,1.515-1.527c6.115.028,12.228.019,18.343.007a1.675,1.675,0,0,1,1.271.528q5.97,5.985,11.956,11.955a1.632,1.632,0,0,1,.512,1.236q-.013,13.324,0,26.649a1.5,1.5,0,0,1-.912,1.563Zm1.574-2.486H152.9v-.313q0-12.384-.011-24.769a.933.933,0,0,0-.267-.586q-5.5-5.527-11.021-11.04a.864.864,0,0,0-.675-.281q-8.107.012-16.215.006h-.457Z" transform="translate(-121.761 -426.421)"/>
+      </g>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(140.158 423.306)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="7.827" cy="7.827" r="7.827" transform="translate(0.868 0.868)" fill="#fff"/>
+      <path id="Path_10" data-name="Path 10" d="M162.243,440.7a8.7,8.7,0,1,1,8.7-8.7A8.705,8.705,0,0,1,162.243,440.7Zm0-15.655A6.959,6.959,0,1,0,169.2,432,6.967,6.967,0,0,0,162.243,425.042Z" transform="translate(-153.548 -423.306)" fill="#161615"/>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(144.441 427.592)">
+      <path id="Path_11" data-name="Path 11" d="M166.38,434.1c.8,0,1.547,0,2.292,0a1.02,1.02,0,1,1-.01,2.034c-.745,0-1.49,0-2.282,0v.816c0,.531.008,1.063,0,1.594a1.015,1.015,0,0,1-2.029-.01c-.01-.788,0-1.577,0-2.4-.818,0-1.606.006-2.394,0a1.016,1.016,0,0,1-.256-2,1.417,1.417,0,0,1,.368-.035c.745,0,1.489,0,2.281,0v-.817c0-.531-.008-1.063,0-1.594a1.015,1.015,0,0,1,2.029.01C166.388,432.492,166.38,433.28,166.38,434.1Z" transform="translate(-160.949 -430.712)"/>
+    </g>
+    <g id="Group_11" data-name="Group 11" transform="translate(128.506 442.447)">
+      <g id="Group_7" data-name="Group 7">
+        <line id="Line_1" data-name="Line 1" x2="19.019" transform="translate(0 0.868)" fill="#fff"/>
+        <rect id="Rectangle_1" data-name="Rectangle 1" width="19.019" height="1.736" fill="#161615"/>
+      </g>
+      <g id="Group_8" data-name="Group 8" transform="translate(0 5.956)">
+        <line id="Line_2" data-name="Line 2" x2="19.019" transform="translate(0 0.868)" fill="#fff"/>
+        <rect id="Rectangle_2" data-name="Rectangle 2" width="19.019" height="1.736" fill="#161615"/>
+      </g>
+      <g id="Group_9" data-name="Group 9" transform="translate(0 11.912)">
+        <line id="Line_3" data-name="Line 3" x2="19.019" transform="translate(0 0.868)" fill="#fff"/>
+        <rect id="Rectangle_3" data-name="Rectangle 3" width="19.019" height="1.736" fill="#161615"/>
+      </g>
+      <g id="Group_10" data-name="Group 10" transform="translate(0 17.868)">
+        <line id="Line_4" data-name="Line 4" x2="19.019" transform="translate(0 0.868)" fill="#fff"/>
+        <rect id="Rectangle_4" data-name="Rectangle 4" width="19.019" height="1.736" fill="#161615"/>
+      </g>
+    </g>
+  </g>
+</svg>

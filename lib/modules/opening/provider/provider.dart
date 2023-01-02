@@ -1,0 +1,1 @@
+export 'opening.provider.dart';
